@@ -19,8 +19,7 @@ This project utilizes a **DHT11** sensor to monitor real-time temperature and hu
 1. Clone the repository:
    ```bash
    git clone https://github.com/Deepthipriya30/Temperature-Humidity-Monitoring-DHT.git
-#Code
-
+2. Code
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 #define dht_1 2  
