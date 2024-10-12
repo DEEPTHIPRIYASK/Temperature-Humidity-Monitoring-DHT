@@ -1,2 +1,16 @@
-# Temperature-Humidity-Monitoring-DHT
-This project monitors real-time temperature and humidity using a DHT11 sensor, with circuit design and simulation implemented in Proteus software. The system provides accurate data collection and visualization, ideal for climate control in smart homes, greenhouses, and industrial applications.
+# Temperature and Humidity Monitoring System with DHT Sensor
+
+## Project Overview
+This project utilizes a **DHT11** sensor to monitor real-time temperature and humidity. The design and simulation are implemented using **Proteus software**, offering a practical solution for environmental monitoring in applications such as smart homes, greenhouses, and industrial setups.
+
+## Features
+- Real-time temperature and humidity data collection.
+- DHT sensor interfacing with Arduino UNO.
+- Designed and simulated in **Proteus**.
+- User-friendly data visualization.
+
+## Requirements
+- **DHT11** Sensor
+- Microcontroller - Arduino UNO
+- **Proteus** software for circuit design and simulation
+- Resistors, wires, and breadboard (for physical implementation)
